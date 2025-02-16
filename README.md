@@ -1,7 +1,7 @@
 <div align="center">
   
-# 👋 Hello, Universe! I'm [Your Name]
-### Turning ☕ into `{ code }`
+# 👋 Hello, Universe! I'm Sreenand!!
+### Turning ☕ into `${code}`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg?style=for-the-badge&logo=linkedin)](your-linkedin-url)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue.svg?style=for-the-badge&logo=twitter)](your-twitter-url)
@@ -34,8 +34,8 @@ const techStack = {
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vamp-X&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vamp-X&theme=radical" alt="GitHub Streak" />
 </div>
 
 ## 🎯 Featured Projects
